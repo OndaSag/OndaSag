@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OndaSag
 - 👀 I’m interested in Electronics
-- 🌱 I’m currently learning nothing :P
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 🌱 I’m currently learning Electronics
 - 📫 How to reach me: ask me to email you
 
 <!---
